@@ -1,0 +1,3 @@
+C:/Users/Sandro/CLionProjects/Getrankeautomat/cmake-build-debug/CMakeFiles/GetrankeAutomat.dir
+C:/Users/Sandro/CLionProjects/Getrankeautomat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sandro/CLionProjects/Getrankeautomat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
