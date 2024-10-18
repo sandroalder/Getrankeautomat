@@ -15,7 +15,7 @@ void Menu_anzeigen(void) {
 int main() {
 
     float Preis = 0;
-    int einwurf=0;
+    float einwurf=0;
     int Wahl=0;
     int Menge=0;
 
@@ -46,7 +46,7 @@ int main() {
         printf("\nBitte werfen sie %.2f Euro ein:\n",Preis);
 
         while (Preis > 0) {
-            scanf("%d",&einwurf);
+            scanf("%f",&einwurf);
             Preis -= einwurf;
             einwurf = 0;
         }
