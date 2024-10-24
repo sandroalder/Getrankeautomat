@@ -78,7 +78,7 @@ float Geld_Einwurf(float Preis) {
         else
             printf("\nGeldstueck ungueltig\n");
         einwurf = 0;
-    }1
+    }
     return Preis;
 }
 
